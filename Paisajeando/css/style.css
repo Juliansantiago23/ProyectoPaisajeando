@@ -34,6 +34,10 @@ a:hover{
 }
 footer p.abajo{
     text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
 }
 section .formulario{
     margin: auto;
@@ -104,4 +108,43 @@ section .formulario{
     float: left;
     padding: 20px;
     
+}
+
+.Nosotros img{   
+        
+    margin-right: 30px; /* Margen a la derecha de la imagen */
+    margin-left: 30px; /* Margen a la izquierda de la imagen */
+}
+.Nosotros h3{
+    text-align: center;
+}
+
+h2{
+    color: #445940;
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+caption{
+    text-align: center;
+    color: #445940;
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+}
+td{
+    width: 50%;
+    padding: 10px;
+}
+img{
+    width: 450px;
+    height: 250px;
+    margin-top: auto;
 }
