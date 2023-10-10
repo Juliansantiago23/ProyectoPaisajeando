@@ -34,6 +34,10 @@ a:hover{
 }
 footer p.abajo{
     text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
 }
 section .formulario{
     margin: auto;
@@ -56,3 +60,12 @@ section .formulario{
     background-color: #445940;
     margin: auto;
 }
+.Nosotros img{   
+        
+    margin-right: 30px; /* Margen a la derecha de la imagen */
+    margin-left: 30px; /* Margen a la izquierda de la imagen */
+}
+.Nosotros h3{
+    text-align: center;
+}
+
