@@ -60,6 +60,7 @@ section .formulario{
     background-color: #445940;
     margin: auto;
 }
+<<<<<<< HEAD
 .Nosotros img{   
         
     margin-right: 30px; /* Margen a la derecha de la imagen */
@@ -68,4 +69,37 @@ section .formulario{
 .Nosotros h3{
     text-align: center;
 }
+=======
+h2{
+    color: #445940;
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+caption{
+    text-align: center;
+    color: #445940;
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+}
+td{
+    width: 50%;
+    padding: 10px;
+}
+img{
+    width: 450px;
+    height: 250px;
+    margin-top: auto;
+}
+
+
+>>>>>>> abebcb2207dfaa81308c0b13bde3a5a15c9f133e
 
