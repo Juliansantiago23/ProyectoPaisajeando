@@ -56,3 +56,35 @@ section .formulario{
     background-color: #445940;
     margin: auto;
 }
+h2{
+    color: #445940;
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+caption{
+    text-align: center;
+    color: #445940;
+    font-family: 'Magra', sans-serif;
+    font-size: 20px;
+}
+td{
+    width: 50%;
+    padding: 10px;
+}
+img{
+    width: 450px;
+    height: 250px;
+    margin-top: auto;
+}
+
+
+
