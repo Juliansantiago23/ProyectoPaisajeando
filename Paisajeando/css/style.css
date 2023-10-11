@@ -1,10 +1,10 @@
 header{
     display: flex;
-    justify-content: center;
+    
 }
 .img{
-    width: 200px;
-
+    width: 100px;
+    justify-content: end;
 }
 
 .ul{
