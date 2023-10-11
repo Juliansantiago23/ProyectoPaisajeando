@@ -65,6 +65,11 @@ section .formulario{
 }
 .p2{
     font-weight: 300;
+    font-family: 'Magra', sans-serif;
+}
+.p1{
+    font-weight: 300;
+    font-family: 'Magra', sans-serif;
 }
 .pueblo1{
     width: 22.5%;
@@ -105,3 +110,30 @@ section .formulario{
     padding: 20px;
     
 }
+.img2{
+    width: 425px;
+    height: 300px;
+    margin-top: center;
+}
+#servicios{
+    width: 100%;
+    border-collapse: collapse;
+}
+.titulos{
+    margin: auto;
+    font-family: 'Magra', sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.imagen {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+  }
