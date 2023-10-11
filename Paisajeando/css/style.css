@@ -34,6 +34,10 @@ a:hover{
 }
 footer p.abajo{
     text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
 }
 section .formulario{
     margin: auto;
@@ -110,30 +114,3 @@ section .formulario{
     padding: 20px;
     
 }
-.img2{
-    width: 425px;
-    height: 300px;
-    margin-top: center;
-}
-#servicios{
-    width: 100%;
-    border-collapse: collapse;
-}
-.titulos{
-    margin: auto;
-    font-family: 'Magra', sans-serif;
-    text-align: center;
-    padding: 5px;
-}
-.contenedor {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-.imagen {
-    width: 200px;
-    height: 200px;
-    margin: 10px;
-  }
