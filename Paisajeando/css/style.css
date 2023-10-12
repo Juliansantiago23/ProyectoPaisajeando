@@ -143,17 +143,15 @@ section .formulario{
 
 .contpadre-galeria{
 width: 100%;
-height: 800px;
+height: 600px;
 border: 10px color(black);
 border-radius: 20px;
-background-color: #445940;
 display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center
 
 }
-
 
 #galeriaimagenes{
 text-align: center;
@@ -168,7 +166,15 @@ margin: 10px
 }
 
 .textogaleria{
-    text-align: center;
-    font-family: 'Magra', sans-serif;
-    font-weight: bold;
+text-align: center;
+font-family: 'Magra', sans-serif;
+font-weight: bold;
+}
+
+#footergaleria{
+background-color: #445940;
+padding: 10px;
+text-align: center;
+font-family: 'Magra', sans-serif;
+color: white;
 }
